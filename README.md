@@ -9,8 +9,8 @@ Although Ethereum was built to handle extra complex functionality such as smart 
 ## Mining
 Mining on ethereum is quite straightforward - validators stake ETH and contribute blocks to the network(Proof of stake). In case the validator wanted to mine blocks for another chain, they would need to follow its different rules either for proof of work or proof of stake and cover the extra computation overhead.
 
-On rootstock, [merged mining](https://blog.rootstock.io/noticia/rsk-bitcoin-merge-mining-is-here-to-stay/) is used. Merged mining is a method of mining blocks for several blockchains simultaneously. The main point of merged mining is that rootstock blocks are linked by bitcoin miners to bitcoin blocks, which greatly enhances security by maintaining a second reference in case malicious actors want to add invalid blocks to the network.
-<br/>About half the bitcoin miners perform merged mining on rootstock and they are compensated for it on block confirmation through a smart contract on rootstock. Contrary to ethereum, rootstock uses a Proof of Work mechanism. 
+Contrary to ethereum, rootstock uses a Proof of Work mechanism, specifically [merged mining](https://blog.rootstock.io/noticia/rsk-bitcoin-merge-mining-is-here-to-stay/). Merged mining is a method of mining blocks for several blockchains simultaneously. The main point of merged mining is that rootstock blocks are linked by bitcoin miners to bitcoin blocks, which greatly enhances security by maintaining a second reference in case malicious actors want to add invalid blocks to the network and also making sure it is computationally or economically very expensive to attack the blockchain due to PoW.
+<br/>About half the bitcoin miners perform merged mining on rootstock and they are compensated for it on block confirmation.
 
 
 ## Smart contract compatibility
@@ -36,7 +36,7 @@ Opinions remain divided regarding the adoption of runes, but just in case you wo
 Nobody likes to write or remember long blockchain addresses. Ethereum already has a solution for this (ENS). Rootstock has a similar service, the [RIF Name Service](https://rif.technology/content-hub/rif-naming-service/) which gives human readable names to your public address. 
 
 ## Ecosystem
-Rootstock has enabled the rise of new types of applications in the bitcoin ecosystem due to the speed and scalability achieved so far, the most popular ones centered around decentralized finance.
+Rootstock has enabled the rise of new types of applications in the bitcoin ecosystem due to the speed and scalability achieved so far, the most popular ones like below centered around decentralized finance.
 - [Sushiswap](https://www.sushi.com/)
 - [Money on Chain](https://moneyonchain.com/)
 - [Sovryn](https://sovryn.app/)
