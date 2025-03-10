@@ -36,10 +36,11 @@ Opinions remain divided regarding the adoption of runes, but just in case you wo
 Nobody likes to write or remember long blockchain addresses. Ethereum already has a solution for this (ENS). Rootstock has a similar service, the [RIF Name Service](https://rif.technology/content-hub/rif-naming-service/) which gives human readable names to your public address. 
 
 ## Ecosystem
-Rootstock has enabled the rise of new types of applications built on bitcoin due to the speed and scalability achieved so far, the most popular ones centered around decentralized finance.
+Rootstock has enabled the rise of new types of applications in the bitcoin ecosystem due to the speed and scalability achieved so far, the most popular ones centered around decentralized finance.
 - [Sushiswap](https://www.sushi.com/)
 - [Money on Chain](https://moneyonchain.com/)
 - [Sovryn](https://sovryn.app/)
+  
 These are just but a few examples of the potential surrounding the bitcoin and rootstock space. A more comprehensive list can be found [here](https://rootstock.io/ecosystem/).
 
 
