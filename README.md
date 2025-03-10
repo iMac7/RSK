@@ -46,7 +46,7 @@ These are just but a few examples of the potential surrounding the bitcoin and r
 
 ## Conclusion
 The total supply of bitcoin is about $1.6 Trillion - this is practically begging for innovation in various sectors in the ecosystem. Full ethereum compatibility means that you can port over the same app on Ethereum to Rootstock with minimal configuration and network fees way cheaper than both the ethereum and bitcoin mainnets.
-<br/>I highly encourage ethereum users and dapp developers to participate in rootstock as well, the efforts made for compatibility and ease of use are quite worth it.
+<br/>I highly encourage ethereum users and dapp developers to participate in development on rootstock. The efforts made for ethereum compatibility, ease of use and the wide audience that awaits are quite worth it.
 
 
 
